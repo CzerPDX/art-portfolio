@@ -1,0 +1,9 @@
+[submodule "backend_art-portfolio"]
+	path = backend_art-portfolio
+	url = git@github.com:CzerPDX/backend_art-portfolio.git
+[submodule "frontend_art-portfolio"]
+	path = frontend_art-portfolio
+	url = git@github.com:CzerPDX/frontend_art-portfolio.git
+[submodule "image-bucket"]
+	path = image-bucket
+	url = git@github.com:CzerPDX/image-bucket.git
