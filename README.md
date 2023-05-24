@@ -20,7 +20,7 @@ A `Node.js` server that handles requests and responses for the art portfolio app
 ## Image Bucket
 A `Node.js` server that manages `PUT` requests to upload images to the server and is the location that images will be loaded from on the frontend. Holds the art portfolio images and serves them. 
 
-Interface somewhat mirrors the way that a developer might interface with `S3`. This makes a future refactor to use `S3` smoother as well as spreading the load of serving large images to another server.
+Interface somewhat mirrors the way that a developer might interface with `S3`. This makes a future refactor to use `S3` smoother and also spreads the load of serving large images to another server.
 
 
 [Link to Image Bucket GitHub](https://github.com/CzerPDX/image-bucket)
